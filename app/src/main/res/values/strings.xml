@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="inlet">Вход</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="Login">логин</string>
+    <string name="Password">пароль</string>
+    <string name="link">Забыл пароль?</string>
+    <string name="register">регистрация</string>
+    <string name="warning_fil_fields">Неправильный логин или пароль</string>
+
+</resources>
